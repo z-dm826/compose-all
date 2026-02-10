@@ -1,0 +1,2 @@
+# compose-all
+dockge compose
